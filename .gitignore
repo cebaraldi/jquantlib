@@ -9,3 +9,15 @@ target
 .classpath_nb
 .ensime
 .ensime_lucene
+jquantlib-contrib/.classpath
+jquantlib-contrib/.project
+jquantlib-contrib/.settings/
+jquantlib-helpers/.classpath
+jquantlib-helpers/.project
+jquantlib-helpers/.settings/
+jquantlib-samples/.classpath
+jquantlib-samples/.project
+jquantlib-samples/.settings/
+jquantlib/.classpath
+jquantlib/.project
+jquantlib/.settings/
